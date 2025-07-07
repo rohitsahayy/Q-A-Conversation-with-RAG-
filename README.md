@@ -27,7 +27,7 @@ This project implements a **PDF-powered conversational AI assistant** using **La
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pdf-chatbot-langchain.git
+   git clone https://github.com/rohitsahayy/Q-A-Conversation-with-RAG-.git
    cd pdf-chatbot-langchain
    ```
 
